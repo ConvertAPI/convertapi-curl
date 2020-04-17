@@ -28,7 +28,8 @@ curl -F "File=@/path/to/doc.docx" -F "StoreFile=true" https://v2.convertapi.com/
 
 ## Convert a remote file and set additional parameters
 
-Set input and output formats and pass file parameter. 
+Set input and output formats and pass file parameter.
+
 PowerPoint to PNG API. Read more https://www.convertapi.com/pptx-to-png
 
 ```nginx
