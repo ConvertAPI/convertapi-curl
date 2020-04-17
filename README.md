@@ -40,7 +40,7 @@ curl -F "File=@/path/to/presentation.pptx" -F "StoreFile=true" -F "ImageResoluti
 
 Get infomration about your user account
 
-```
+```nginx
 curl https://v2.convertapi.com/user?Secret=your-api-secret
 ```
 
